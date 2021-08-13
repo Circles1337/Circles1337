@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Circles1337
-- 👀 I’m interested in java, python
-- 🌱 I’m currently learning java
+- 👀 I’m interested in *Java, Javascript, python*
+- 🌱 I’m currently learning *Java*
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Circles#0001 on Discord
 
