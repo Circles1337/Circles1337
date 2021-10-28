@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @Circles1337
-- 👀 I’m interested in *Java, Javascript, python*
-- 🌱 I’m currently learning *Java*
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Circles#0001 on Discord
-
-<!---
-Circles1337/Circles1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Current interest in *Java, OpenGL, Web Development.*
+Contact **Arity888@gmail.com** & **Circles#1335** on Discord
